@@ -1,4 +1,13 @@
-# awesome-yebigun
+<div align="center">
+<!--   <img src="media/logo.jpg" alt="Awesome Yebigun" width="500"> -->
+  <h1>Awesome Yebigun</h1>
+  <br>
+  <br>
+  <br>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+  </a>
+</div>
 
 > 작성중입니다.
 
@@ -24,5 +33,7 @@
 ## 팁
 
 ## 관련 자료
+
+* [예비군 - 나무위키](https://namu.wiki/w/%EC%98%88%EB%B9%84%EA%B5%B0)
 
 ## License
